@@ -1,3 +1,3 @@
 # practice
-using github first time/n
+using github first time\n
 test pull
